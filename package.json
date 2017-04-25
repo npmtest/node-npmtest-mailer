@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [mailer (v0.6.7)](https://github.com/Marak/node_mailer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mailer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mailer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mailer.svg)](https://travis-ci.org/npmtest/node-npmtest-mailer)",
+    "description": "#### basic test coverage for  [mailer (v0.6.7)](https://github.com/Marak/node_mailer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mailer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mailer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mailer.svg)](https://travis-ci.org/npmtest/node-npmtest-mailer)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "mailer": "*",
